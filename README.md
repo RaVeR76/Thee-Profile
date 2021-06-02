@@ -5,7 +5,15 @@
 
 ## **Project Goals**
 
+To let the world know who I am .... and what I can do !  
+I'm going to create a personal website that will display my skills so far, which isn't much unfortunately ha ha, but like I always say ... *it's a grower* :)
+What I mean is, the more experience I gain then the more my wee developer portfolio will **grow** and tut tut if that wasn't your first thought. 
+I honestly love coding and you learn something everyday from it that simply blows your mind. 
+I'm going to **try** keep it relatively simple, notice the emphasis on *try*, because I love a bit of creativity and flare to be honest.
+I just want the user to feel they know me bit better and know that I give 100% in everything I do (as I do the Hulk clench as show of strength)
+And I do it with a smile :)
 
+**Remember ..... Hug Harder, Laugh Louder, Smile Bigger & Love Longer !** 
 
 --- 
 
@@ -40,6 +48,12 @@
 
 ### **User Goals**
 
+* Find out who this comedy genius but deadly serious coder really is
+* The website will be a one page website so I can focus in on certain aspects
+* The website will have to work well on all devices
+* Navigate around the website with ease and pleasure
+* Contact options for getting in touch with moi
+* 
 
 
 ### **User Stories**
@@ -48,7 +62,8 @@
 
 ### **Site Owner Goals**
 
-
+* Add Admin access for site owner to perform CRUD (Create, Read, Update & Delete) within the database
+* 
 
 [Back to Top](#contents)
 
