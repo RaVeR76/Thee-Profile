@@ -52,11 +52,20 @@ And I do it with a smile :)
 * The website will be a one page website so I can focus in on certain aspects
 * The website will have to work well on all devices
 * Navigate around the website with ease and pleasure
+* An aesthetically pleasing and visually appealing website
 * Contact options for getting in touch with moi
-* 
+* Last and most importantly ... find out who this comedy genius but deadly serious coder really is !
 
 
 ### **User Stories**
+
+* As a user, I would like to know more about soul of the developer within the website
+* As a user, I want to see a well displayed portfolio 
+* As a user, I want the website easy to use
+* As a user, I want to be able to contact this awesome developer and offer him a mega bucks deal 
+* As a user, I want keep a track of how this newborn developer is progressing in the Coding World
+* As a user, 
+* As a user but admin, I was access to my database so I can utilise the CRUD methods
 
 
 
