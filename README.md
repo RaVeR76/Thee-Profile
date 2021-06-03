@@ -76,6 +76,7 @@ And I do it with a smile :)
 * Add Admin access for site owner to perform CRUD (Create, Read, Update & Delete) within the database
 * 
 
+
 [Back to Top](#contents)
 
 ### **User Requirements and Expectations**
@@ -86,6 +87,7 @@ And I do it with a smile :)
 * Ease of navigation
 * An aesthetically pleasing website
 * Easy to perform CRUD operations (Admin)
+* Developers creditials up to date
 * Contact form
 * Admin access for various functions
 * A little uniqueness to hopefully stand out a little bit more
@@ -95,8 +97,8 @@ And I do it with a smile :)
 
 * To enjoy the website layout and navigate freely with no issues
 * To know a little bit more about the developer
-* 
-*
+* Contact options in case the user wants to offer employment or projects
+* As an Admin, to be able to access the Database and make changes easily
 
 
 ### **Design Choices**
