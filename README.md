@@ -149,7 +149,15 @@ Below is an image of the chosen colours .....
 
 ## **Wireframes**
 ---
+The software that I used for my wireframes was Balsamiq. This was the third time I used this software & it was deffo a lot easier to understand what you need to do. The software allows you design the basic layout of your website on devices such as a desktop, tablet and mobile. They are just simple 2D sketches but I now understand how important these really are:)
 
+Anyway, you can have a wee look at my wireframes below:
+
+- [Mobile Wireframe](https://github.com/RaVeR76/Thee-Profile/raw/master/wireframes/mobile-wireframe.pdf)
+
+- [Tablet Wireframe](https://github.com/RaVeR76/Thee-Profile/raw/master/wireframes/tablet-wireframe.pdf)
+
+- [Desktop Wireframe](https://github.com/RaVeR76/Thee-Profile/raw/master/wireframes/desktop-wireframe.pdf)
 
 
 [Back to Top](#contents)
