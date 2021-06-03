@@ -110,36 +110,40 @@ It will be a one page scrolling website split into various sections, each displa
 #### Fonts
 
 For my fonts, I am going to use [Google Fonts](https://fonts.google.com/) as my source of inspiration :)
-I have settled on the simplicity side of things & the more user friendly style of [Titillium Web](https://fonts.google.com/specimen/Titillium+Web)
-for the main text and [Lato](https://fonts.google.com/specimen/Lato) for titles and section headings.
+I have settled on the simplicity side of things & the more user friendly style of [Raleway](https://fonts.google.com/specimen/Raleway)
+for the main text and [Roboto](https://fonts.google.com/specimen/Roboto) for titles and section headings.
 
-Below is an example of my fonts where the title is in Lato and the text is in Titillium Web .....
+Below is an example of my fonts where the title is in ***Roboto*** and the text is in ***Raleway*** .....
 
-**Font Pic Here**
+![Thee-Profile Fonts](https://github.com/RaVeR76/Thee-Profile/raw/master/wireframes/fonts-example.png)
 
 
 #### Icons
 
 [Font Awesome](https://fontawesome.com/) will be the main source for any icons that I require. 
-I will deffo be using the various social media icons out there on my website.
+I will deffo be using the various programming language icons and some social media icons on my website.
 Other than them, we will just have to see what suits and fits the web page layout perfectly.
 
 
 #### Colours
 
+I love happy, bright, vibriant colours to be honest as I am an ex-raver and generally a chilled out happy go lucky person 
+(I had to use the term *generally* because of JavaScript ha ha .... deffo lost a few hairs over that one).
+Anyway, I don't want to make this website too loud and off putting but I want the colours to have like a chilled out vibriant feel, if you get what I mean.
+Basically not too bright but not to dull either .... still confused, yeah me too ! I think AMBIENT is the keyword I'm looking for here :)  
 
 So the colours I have mainly settled for are :
 
 |Name                  |Hex Code   |Basic Description  |Usage                           |
 |:--------------------:|:---------:|:-----------------:|:------------------------------:|
-|***White***           |#FFFFFF    |White              |Body background, text & titles  |
-|***Aureolin***        |#FEEE20    |Loud Yellow        |Titles & text                   |
-|***Rose Bonbon***     |#F74498    |Bubblegum Pink     |Titles & text                   |
-|***Black***           |#000000    |Black              |Body background, text & titles  |
+|***Cultured***        |#F5F5F5    |Off White          |Body background, text & titles  |
+|***Blizzard Blue***   |#A1EAF7    |Light Sky Blue     |Body background                 |
+|***Fuzzy Wuzzy***     |#E36464    |Bubblegum Pink     |Body background                 |
+|***Smoky Black***     |#110303    |Off Black          |Body background, text & titles  |
 
 Below is an image of the chosen colours .....
 
-
+![Thee-Profile Colors](https://github.com/RaVeR76/Thee-Profile/raw/master/wireframes/profile-color-scheme.png)
 
 [Back to Top](#contents)
 
