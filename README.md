@@ -1,6 +1,6 @@
 # **Thee-Profile**
  
-
+***HERO IMAGE OR WEBSITE DISPLAY IMAGE***
  
 
 ## **Project Goals**
@@ -65,7 +65,7 @@ And I do it with a smile :)
 * As a user, I want to be able to contact this awesome developer and offer him a mega bucks deal 
 * As a user, I want keep a track of how this newborn developer is progressing in the Coding World
 * As a user, I want to be able to see what projects he has completed and what he is currently working on
-* As a user but admin, I was access to my database so I can utilise the CRUD operations
+* As a user but admin, I want to be able to access the database so I can perform CRUD operations
 
 
 
@@ -195,9 +195,51 @@ Below is an image of the chosen colours .....
 ---
 
 
-### **User Story Title**
+### **Delve Into The Developer**
 
-#### User Story : 
+#### User Story : I would like to know more about soul of the developer within the website
+
+* **Plan**  
+
+
+* **Implementation**  
+
+
+* **Test**  
+
+
+* **Result**  
+
+
+* **Verdict**  
+
+
+
+
+### **Show Me What Ya Got**
+
+#### User Story : I want to see a well displayed portfolio
+
+* **Plan**  
+
+
+* **Implementation**  
+
+
+* **Test**  
+
+
+* **Result**  
+
+
+* **Verdict**  
+
+
+
+
+### **Easy Navigation**
+
+#### User Story : I want the website easy to use
 
 * **Plan**  
 
@@ -217,6 +259,91 @@ Below is an image of the chosen colours .....
 
 
 
+### **Show Me The Money**
+
+#### User Story : I want to be able to contact this awesome developer and offer him a mega bucks deal
+
+* **Plan**  
+
+
+* **Implementation**  
+
+
+* **Test**  
+
+
+* **Result**  
+
+
+* **Verdict**  
+
+
+
+### **They Grow Up So Fast**
+
+#### User Story : I want keep a track of how this newborn developer is progressing in the Coding World
+
+* **Plan**  
+
+
+* **Implementation**  
+
+
+* **Test**  
+
+
+* **Result**  
+
+
+* **Verdict**
+
+
+
+### **Project Performance**
+
+#### User Story : I want to be able to see what projects he has completed and what he is currently working on
+
+* **Plan**  
+
+
+* **Implementation**  
+
+
+* **Test**  
+
+
+* **Result**  
+
+
+* **Verdict**
+
+
+
+### **Admin Access**
+
+#### User Story : As Admin, I want to be able to access the database so I can perform CRUD operations
+
+* **Plan**  
+
+
+* **Implementation**  
+
+
+* **Test**  
+
+
+* **Result**  
+
+
+* **Verdict**
+
+
+
+
+
+
+
+
 [Back to Top](#contents)
 
 ## **Bugs**
@@ -231,6 +358,44 @@ Below is an image of the chosen colours .....
 
 
 * **Verdict** 
+
+
+
+
+### **User Story Title**
+
+#### User Story : 
+
+* **Plan**  
+
+
+* **Implementation**  
+
+
+* **Test**  
+
+
+* **Result**  
+
+
+* **Verdict**  
+
+
+[Back to Top](#contents)
+
+## **Bugs**
+---
+
+### **Bug Title**
+
+* **Bug**
+
+
+* **Fix**
+
+
+* **Verdict** 
+
 
 
 [Back to Top](#contents)
