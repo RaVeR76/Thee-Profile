@@ -64,13 +64,15 @@ And I do it with a smile :)
 * As a user, I want the website easy to use
 * As a user, I want to be able to contact this awesome developer and offer him a mega bucks deal 
 * As a user, I want keep a track of how this newborn developer is progressing in the Coding World
-* As a user, 
-* As a user but admin, I was access to my database so I can utilise the CRUD methods
+* As a user, I want to be able to see what projects he has completed and what he is currently working on
+* As a user but admin, I was access to my database so I can utilise the CRUD operations
 
 
 
 ### **Site Owner Goals**
 
+* Display site owners experience, projects, project links and skillset levels so far
+* Get contacted by potential customers or employers
 * Add Admin access for site owner to perform CRUD (Create, Read, Update & Delete) within the database
 * 
 
@@ -80,21 +82,47 @@ And I do it with a smile :)
 
 #### Requirements 
 
+* Single page portfolio design
+* Ease of navigation
+* An aesthetically pleasing website
+* Easy to perform CRUD operations (Admin)
+* Contact form
+* Admin access for various functions
+* A little uniqueness to hopefully stand out a little bit more
 
 
 #### Expectations
 
+* To enjoy the website layout and navigate freely with no issues
+* To know a little bit more about the developer
+* 
+*
 
 
 ### **Design Choices**
 
+I will be using Bootstrap 4 to create the overall layout of my website, as this will make it easier for me to control it's functionality across multiple devices.
+I just want it to be a simple and easy on the eye .... nothing too adventurous or loud !
+It will be a one page scrolling website split into various sections, each displaying certain information about the developer.
+
+
 
 #### Fonts
+
+For my fonts, I am going to use [Google Fonts](https://fonts.google.com/) as my source of inspiration :)
+I have settled on the simplicity side of things & the more user friendly style of [Titillium Web](https://fonts.google.com/specimen/Titillium+Web)
+for the main text and [Lato](https://fonts.google.com/specimen/Lato) for titles and section headings.
+
+Below is an example of my fonts where the title is in Lato and the text is in Titillium Web .....
+
+**Font Pic Here**
 
 
 #### Icons
 
-[Font Awesome](https://fontawesome.com/) will be the main source for any icons that I require, as always. 
+[Font Awesome](https://fontawesome.com/) will be the main source for any icons that I require. 
+I will deffo be using the various social media icons out there on my website.
+Other than them, we will just have to see what suits and fits the web page layout perfectly.
 
 
 #### Colours
